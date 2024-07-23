@@ -1,0 +1,11 @@
+python-dotenv
+aiohttp
+openai
+gradio
+ijson
+nest_asyncio
+tenacity
+# Note: ensure you have azure-cosmos version 4.7 or higher installed
+azure-cosmos
+flask
+pymongo
